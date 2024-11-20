@@ -1,7 +1,8 @@
 title: Econotes
 description: Lorem ipsum
 theme: just-the-docs
-  color_scheme: custom
+
+color_scheme: custom
 
 url: https://econotes.github.io/wiki
 
